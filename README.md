@@ -66,5 +66,5 @@ Crafting low-level network protocols and high-performance system architectures d
 ---
 
 <div align="center">
-  <p><code>[ <a href="mailto:senin@epostan.com">INITIATE_CONTACT</a> ] | [ <a href="https://linkedin.com/in/kullaniciadin">LINKEDIN</a> ]</code></p>
+  <p><code>[ <a href="mailto:yaman26@proton.me">INITIATE_CONTACT</a> ] | [ <a href="https://linkedin.com/">LINKEDIN</a> ]</code></p>
 </div>
