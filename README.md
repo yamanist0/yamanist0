@@ -60,7 +60,6 @@ Crafting low-level network protocols and high-performance system architectures d
 
 * 🖨️ **3D Printing:** Experimenting with advanced materials like TPU, ABS, and Silk PLA to create functional prototypes and intricate designs.
 * ➗ **Theoretical Mathematics:** Exploring abstract structures and algorithmic complexity for fun.
-* 🪐 **Astrophysics:** Fascinated by celestial mechanics and the fundamental laws governing the universe.
 * ⚔️ **Star Wars Lore:** Delving into the extended universe history and technology specifications.
 
 ---
