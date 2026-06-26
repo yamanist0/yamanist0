@@ -59,8 +59,8 @@ Crafting low-level network protocols and high-performance system architectures d
 ### 🌌 Beyond the Screen
 
 * 🖨️ **3D Printing:** Experimenting with advanced materials like TPU, ABS, and Silk PLA to create functional prototypes and intricate designs.
-* ➗ **Theoretical Mathematics:** Exploring abstract structures and algorithmic complexity for fun.
-* ⚔️ **Star Wars Lore:** Delving into the extended universe history and technology specifications.
+* 🏕️ **Scouting & Leadership:** Embracing nature, developing survival skills, and fostering team spirit through active scouting.
+* 🗣️ **Debating & Rhetoric:** Sharpening critical thinking, logical argumentation, and public speaking through competitive debate.
 
 ---
 
