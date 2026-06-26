@@ -1,6 +1,6 @@
 <div align="center">
   <h1><code>ROOT@USER:~#</code></h1>
-  <p><code>SYSTEM_STATUS: SECURE // 2026</code></p>
+  <p><code>SYSTEM_STATUS: SECURE // 2026 (yamanist) </code></p>
 </div>
 
 <br>
